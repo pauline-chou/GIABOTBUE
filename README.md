@@ -7,7 +7,7 @@ LINE_CHANNEL_SECRET = 'Channel secret'
 
 GOOGLE_PLACES_API_KEY = 'google place api'
 
-<img src="image/0.png" width="200">
+<img src="image/0.png">
 
 輸入『eat nearby』或點擊下方圖片
 有兩個選項：餐廳和咖啡廳
